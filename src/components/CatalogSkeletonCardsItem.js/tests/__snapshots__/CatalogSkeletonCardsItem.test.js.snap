@@ -1,0 +1,175 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#fff",
+      "borderRadius": 16,
+      "justifyContent": "center",
+      "marginBottom": 16,
+      "padding": 15,
+      "shadowColor": "rgba(128,128,128, 1)",
+      "shadowOffset": Object {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.2,
+      "shadowRadius": 1,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "borderTopLeftRadius": 16,
+          "borderTopRightRadius": 16,
+          "height": 345,
+          "overflow": "hidden",
+          "width": "100%",
+        },
+        Object {
+          "alignItems": "center",
+          "borderBottomColor": "#F2F7F4",
+          "justifyContent": "center",
+        },
+      ]
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#C8CCC9",
+            "fontSize": 50,
+          },
+          undefined,
+          Object {
+            "fontFamily": "Ionicons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#F2F7F4",
+        "height": 24,
+        "marginBottom": 8,
+        "width": "100%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "backgroundColor": "#F2F7F4",
+        "height": 20,
+        "marginBottom": 8,
+        "width": "100%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "backgroundColor": "#F2F7F4",
+        "height": 40,
+        "marginBottom": 16,
+        "width": "100%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "flex-end",
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      clickable={false}
+      isTVSelectable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#399AE5",
+          "borderRadius": 8,
+          "justifyContent": "center",
+          "maxWidth": "51%",
+          "minHeight": 36,
+          "minWidth": "50%",
+          "opacity": 0.2,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontFamily": "HelveticaNeue",
+            "fontSize": 14,
+          }
+        }
+      >
+        
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      clickable={false}
+      isTVSelectable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "transparent",
+          "borderRadius": 8,
+          "justifyContent": "center",
+          "maxWidth": "51%",
+          "minHeight": 36,
+          "minWidth": "50%",
+          "opacity": 0.2,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#399AE5",
+            "fontFamily": "HelveticaNeue",
+            "fontSize": 14,
+          }
+        }
+      >
+        
+      </Text>
+    </View>
+  </View>
+</View>
+`;

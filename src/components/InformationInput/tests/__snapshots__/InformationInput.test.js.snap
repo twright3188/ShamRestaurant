@@ -1,0 +1,146 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`information inputs render information input with icon renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#fff",
+      "borderBottomColor": "rgba(34, 38, 36, 0.15)",
+      "borderBottomWidth": 1,
+      "color": "#78807B",
+      "flexDirection": "row",
+      "fontSize": 20,
+      "height": "auto",
+      "justifyContent": "space-between",
+      "minHeight": 80,
+      "paddingHorizontal": 15,
+      "paddingVertical": 16,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "column",
+        "width": "80%",
+      }
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "flexWrap": "wrap",
+            "fontFamily": "Helvetica",
+            "fontWeight": "400",
+          },
+          Object {
+            "color": "#222624",
+            "fontSize": 16,
+            "lineHeight": 24,
+          },
+          Object {
+            "color": "#78807B",
+            "fontSize": 20,
+            "left": 0,
+            "position": "absolute",
+            "top": 0,
+          },
+        ]
+      }
+    >
+      name
+    </Text>
+    <TextInput
+      allowFontScaling={true}
+      attributeName="name"
+      fontSize={20}
+      iconName="ios-add"
+      isModalOpen={false}
+      multiline={false}
+      onBlur={[Function]}
+      onFocus={[Function]}
+      options={Object {}}
+      phoneIcon={true}
+      rejectResponderTermination={true}
+      returnKeyType="done"
+      setModalStatus={null}
+      style={
+        Array [
+          Object {
+            "color": "#78807B",
+            "fontFamily": "Helvetica Neue",
+            "fontSize": 20,
+            "fontWeight": "normal",
+            "lineHeight": 24,
+            "paddingTop": 0,
+          },
+          Object {
+            "fontSize": 20,
+          },
+        ]
+      }
+      switcher={false}
+      underlineColorAndroid="transparent"
+      value=""
+    />
+  </View>
+  <View
+    accessible={true}
+    clickable={true}
+    isTVSelectable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "height": 30,
+        "justifyContent": "center",
+        "opacity": 1,
+        "position": "relative",
+        "width": 30,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "justifyContent": "center",
+          "position": "relative",
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "color": "#C8CCC9",
+              "fontSize": 32,
+            },
+            Object {
+              "alignItems": "center",
+              "position": "absolute",
+              "right": 0,
+            },
+            Object {
+              "fontFamily": "Ionicons",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+  </View>
+</View>
+`;

@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`image block renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#fff",
+      "borderBottomColor": "rgba(34, 38, 36, 0.15)",
+      "borderBottomWidth": 1,
+      "flexDirection": "row",
+      "paddingHorizontal": 15,
+      "paddingVertical": 16,
+      "width": "100%",
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "uri": "image",
+      }
+    }
+    style={
+      Object {
+        "borderRadius": 40,
+        "height": 80,
+        "marginRight": 16,
+        "width": 80,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "flexWrap": "wrap",
+            "fontFamily": "Helvetica",
+            "fontWeight": "400",
+          },
+          Object {
+            "color": "#222624",
+            "fontSize": 16,
+            "lineHeight": 24,
+          },
+          Object {
+            "color": "#78807B",
+            "fontWeight": "bold",
+          },
+        ]
+      }
+    >
+      title
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "flexWrap": "wrap",
+            "fontFamily": "Helvetica",
+            "fontWeight": "400",
+          },
+          Object {
+            "color": "#222624",
+            "fontSize": 16,
+            "lineHeight": 24,
+          },
+          Object {
+            "fontWeight": "bold",
+          },
+        ]
+      }
+    >
+      40
+    </Text>
+  </View>
+</View>
+`;

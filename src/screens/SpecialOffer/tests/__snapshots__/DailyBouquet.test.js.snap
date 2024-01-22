@@ -1,0 +1,611 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`special offer screen renders correctly 1`] = `
+<RCTScrollView
+  style={
+    Object {
+      "backgroundColor": "#F2F7F4",
+      "flex": 1,
+      "height": "100%",
+      "padding": 15,
+      "width": "100%",
+    }
+  }
+>
+  <View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "center",
+            "marginBottom": 24,
+            "width": "100%",
+          },
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "space-around",
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "color": "#222624",
+              "flexWrap": "wrap",
+              "fontFamily": "Helvetica Neue",
+              "fontWeight": "bold",
+              "justifyContent": "center",
+              "position": "relative",
+              "width": "100%",
+            },
+            Object {
+              "fontSize": 35,
+              "lineHeight": 39.97,
+            },
+            Object {
+              "flex": 1,
+            },
+          ]
+        }
+      >
+        Special offer
+      </Text>
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "space-around",
+          }
+        }
+      >
+        <View
+          accessible={true}
+          clickable={false}
+          isTVSelectable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "color": "#399AE5",
+                  "fontSize": 30,
+                },
+                undefined,
+                Object {
+                  "fontFamily": "Ionicons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                Object {},
+              ]
+            }
+          >
+            
+          </Text>
+        </View>
+        <View
+          accessible={true}
+          clickable={false}
+          isTVSelectable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "color": "#399AE5",
+                  "fontSize": 30,
+                },
+                Object {
+                  "marginLeft": 24,
+                },
+                Object {
+                  "fontFamily": "Ionicons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                Object {},
+              ]
+            }
+          >
+            
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "flex-start",
+          "backgroundColor": "#fff",
+          "borderRadius": 16,
+          "elevation": 1,
+          "flex": 1,
+          "flexDirection": "column",
+          "justifyContent": "center",
+          "marginBottom": 16,
+          "shadowColor": "rgba(128,128,128, 1)",
+          "shadowOffset": Object {
+            "height": 2,
+            "width": 0,
+          },
+          "shadowOpacity": 0.2,
+          "shadowRadius": 1,
+          "width": "100%",
+        }
+      }
+    >
+      <Image
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://media.chainreactioncycles.com/is/image/ChainReactionCycles/prod176527_Gloss%20Black-Rasta_NE_01?wid=960&hei=498",
+          }
+        }
+        style={
+          Object {
+            "borderTopLeftRadius": 16,
+            "borderTopRightRadius": 16,
+            "height": 345,
+            "overflow": "hidden",
+            "width": "100%",
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "maxWidth": "100%",
+            "padding": 16,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexWrap": "wrap",
+              "height": "auto",
+              "width": "auto",
+            }
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "color": "#222624",
+                  "flexWrap": "wrap",
+                  "fontFamily": "Helvetica Neue",
+                  "fontWeight": "bold",
+                  "justifyContent": "center",
+                  "position": "relative",
+                  "width": "100%",
+                },
+                Object {
+                  "fontSize": 20,
+                  "lineHeight": 22.839999999999996,
+                },
+                Object {
+                  "marginBottom": 8,
+                },
+              ]
+            }
+          >
+            Nukeproof Mega 275 Carbon Pro Bike GX Eagle 2019
+          </Text>
+        </View>
+        <Text
+          style={
+            Array [
+              Object {
+                "flexWrap": "wrap",
+                "fontFamily": "Helvetica",
+                "fontWeight": "400",
+              },
+              Object {
+                "color": "#78807B",
+                "fontSize": 14,
+                "lineHeight": 21,
+              },
+              Object {},
+            ]
+          }
+        >
+          We will pick it up and deliver it after 2:00 p.m.
+        </Text>
+        <View
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "flexDirection": "row",
+              "marginBottom": 16,
+            }
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#399AE5",
+                  "fontFamily": "Helvetica Neue",
+                  "fontWeight": "bold",
+                  "marginRight": 22,
+                },
+                Object {
+                  "fontSize": 35,
+                  "lineHeight": 39.97,
+                },
+              ]
+            }
+          >
+            $2879.99
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#C8CCC9",
+                  "fontFamily": "Helvetica Neue",
+                  "marginBottom": 4,
+                  "textDecorationLine": "line-through",
+                },
+                Object {
+                  "fontSize": 20,
+                  "lineHeight": 24,
+                },
+              ]
+            }
+          >
+            $4199.99
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            accessible={true}
+            clickable={true}
+            isTVSelectable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#399AE5",
+                "borderRadius": 8,
+                "justifyContent": "center",
+                "maxWidth": "51%",
+                "minHeight": 36,
+                "minWidth": "50%",
+                "opacity": 1,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#fff",
+                  "fontFamily": "HelveticaNeue",
+                  "fontSize": 14,
+                }
+              }
+            >
+              Buy
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            clickable={true}
+            isTVSelectable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "transparent",
+                "borderRadius": 8,
+                "justifyContent": "center",
+                "maxWidth": "51%",
+                "minHeight": 36,
+                "minWidth": "50%",
+                "opacity": 1,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#399AE5",
+                  "fontFamily": "HelveticaNeue",
+                  "fontSize": 14,
+                }
+              }
+            >
+              More details
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "flex-start",
+          "backgroundColor": "#fff",
+          "borderRadius": 16,
+          "elevation": 1,
+          "flex": 1,
+          "flexDirection": "column",
+          "justifyContent": "center",
+          "marginBottom": 16,
+          "shadowColor": "rgba(128,128,128, 1)",
+          "shadowOffset": Object {
+            "height": 2,
+            "width": 0,
+          },
+          "shadowOpacity": 0.2,
+          "shadowRadius": 1,
+          "width": "100%",
+        }
+      }
+    >
+      <Image
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://media.chainreactioncycles.com/is/image/ChainReactionCycles/prod179053_Black%20-%20Grey_NE_01?wid=960&hei=498",
+          }
+        }
+        style={
+          Object {
+            "borderTopLeftRadius": 16,
+            "borderTopRightRadius": 16,
+            "height": 345,
+            "overflow": "hidden",
+            "width": "100%",
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "maxWidth": "100%",
+            "padding": 16,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexWrap": "wrap",
+              "height": "auto",
+              "width": "auto",
+            }
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "color": "#222624",
+                  "flexWrap": "wrap",
+                  "fontFamily": "Helvetica Neue",
+                  "fontWeight": "bold",
+                  "justifyContent": "center",
+                  "position": "relative",
+                  "width": "100%",
+                },
+                Object {
+                  "fontSize": 20,
+                  "lineHeight": 22.839999999999996,
+                },
+                Object {
+                  "marginBottom": 8,
+                },
+              ]
+            }
+          >
+            Nukeproof Mega 275 Alloy Pro Bike GX Eagle 2019
+          </Text>
+        </View>
+        <Text
+          style={
+            Array [
+              Object {
+                "flexWrap": "wrap",
+                "fontFamily": "Helvetica",
+                "fontWeight": "400",
+              },
+              Object {
+                "color": "#78807B",
+                "fontSize": 14,
+                "lineHeight": 21,
+              },
+              Object {},
+            ]
+          }
+        >
+          We will pick it up and deliver it after 2:00 p.m.
+        </Text>
+        <View
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "flexDirection": "row",
+              "marginBottom": 16,
+            }
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#399AE5",
+                  "fontFamily": "Helvetica Neue",
+                  "fontWeight": "bold",
+                  "marginRight": 22,
+                },
+                Object {
+                  "fontSize": 35,
+                  "lineHeight": 39.97,
+                },
+              ]
+            }
+          >
+            $2399.99
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#C8CCC9",
+                  "fontFamily": "Helvetica Neue",
+                  "marginBottom": 4,
+                  "textDecorationLine": "line-through",
+                },
+                Object {
+                  "fontSize": 20,
+                  "lineHeight": 24,
+                },
+              ]
+            }
+          >
+            $3699.99
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "flexDirection": "row",
+            }
+          }
+        >
+          <View
+            accessible={true}
+            clickable={true}
+            isTVSelectable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#399AE5",
+                "borderRadius": 8,
+                "justifyContent": "center",
+                "maxWidth": "51%",
+                "minHeight": 36,
+                "minWidth": "50%",
+                "opacity": 1,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#fff",
+                  "fontFamily": "HelveticaNeue",
+                  "fontSize": 14,
+                }
+              }
+            >
+              Buy
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            clickable={true}
+            isTVSelectable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "transparent",
+                "borderRadius": 8,
+                "justifyContent": "center",
+                "maxWidth": "51%",
+                "minHeight": 36,
+                "minWidth": "50%",
+                "opacity": 1,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#399AE5",
+                  "fontFamily": "HelveticaNeue",
+                  "fontSize": 14,
+                }
+              }
+            >
+              More details
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;

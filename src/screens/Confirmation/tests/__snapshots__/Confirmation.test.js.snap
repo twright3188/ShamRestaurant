@@ -1,0 +1,126 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`confirmation screen renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#F2F7F4",
+      "height": "100%",
+      "paddingHorizontal": 15,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#fff",
+        "borderRadius": 16,
+        "elevation": 1,
+        "marginBottom": 72,
+        "marginTop": 80,
+        "paddingHorizontal": 16,
+        "paddingVertical": 24,
+        "shadowColor": "rgba(34, 38, 36, 0.15)",
+        "shadowOffset": Object {
+          "height": 2,
+          "width": 0,
+        },
+        "shadowOpacity": 1,
+        "shadowRadius": 5,
+        "width": "100%",
+      }
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "color": "#222624",
+            "flexWrap": "wrap",
+            "fontFamily": "Helvetica Neue",
+            "fontWeight": "bold",
+            "justifyContent": "center",
+            "position": "relative",
+            "width": "100%",
+          },
+          Object {
+            "fontSize": 35,
+            "lineHeight": 39.97,
+          },
+          Object {},
+        ]
+      }
+    >
+      The order i190519-24047 is placed
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "flexWrap": "wrap",
+            "fontFamily": "Helvetica",
+            "fontWeight": "400",
+          },
+          Object {
+            "color": "#222624",
+            "fontSize": 16,
+            "lineHeight": 24,
+          },
+          Object {
+            "marginTop": 16,
+          },
+        ]
+      }
+    >
+      We will check the availability of colors and delivery details and send you a payment form. This usually takes no more than 5 minutes.
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    clickable={true}
+    isTVSelectable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "transparent",
+        "borderColor": "#399AE5",
+        "borderRadius": 8,
+        "borderWidth": 1,
+        "height": 56,
+        "justifyContent": "center",
+        "minHeight": 36,
+        "minWidth": "100%",
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#399AE5",
+            "fontFamily": "Helvetica Neue",
+            "fontWeight": "500",
+            "textAlign": "center",
+          },
+          Object {
+            "color": "#399AE5",
+            "fontSize": 16,
+          },
+        ]
+      }
+    >
+      Go to catalogue
+    </Text>
+  </View>
+</View>
+`;

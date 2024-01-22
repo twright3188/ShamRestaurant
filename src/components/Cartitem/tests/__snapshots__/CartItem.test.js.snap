@@ -1,0 +1,258 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`cart item renders correctly 1`] = `
+<View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#fff",
+        "borderBottomColor": "rgba(34, 38, 36, 0.15)",
+        "borderBottomWidth": 1,
+        "flexDirection": "row",
+        "paddingHorizontal": 15,
+        "paddingVertical": 16,
+        "width": "100%",
+      }
+    }
+  >
+    <Image
+      resizeMode="cover"
+      source={
+        Object {
+          "uri": "image",
+        }
+      }
+      style={
+        Object {
+          "borderRadius": 40,
+          "height": 80,
+          "marginRight": 17,
+          "width": 80,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "column",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "flexWrap": "wrap",
+                "fontFamily": "Helvetica",
+                "fontWeight": "400",
+              },
+              Object {
+                "color": "#222624",
+                "fontSize": 14,
+                "lineHeight": 21,
+              },
+              Object {
+                "flexWrap": "wrap",
+                "marginBottom": 7,
+              },
+            ]
+          }
+        >
+          title
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+            "flexWrap": "wrap",
+            "justifyContent": "space-between",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "column",
+            }
+          }
+        >
+          <View>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "flexWrap": "wrap",
+                    "fontFamily": "Helvetica",
+                    "fontWeight": "400",
+                  },
+                  Object {
+                    "color": "#222624",
+                    "fontSize": 14,
+                    "lineHeight": 21,
+                  },
+                  Object {
+                    "color": "#78807B",
+                    "marginBottom": 7,
+                  },
+                ]
+              }
+            >
+              Size: 
+              size
+            </Text>
+          </View>
+          <View>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "flexWrap": "wrap",
+                    "fontFamily": "Helvetica",
+                    "fontWeight": "400",
+                  },
+                  Object {
+                    "color": "#222624",
+                    "fontSize": 16,
+                    "lineHeight": 24,
+                  },
+                  Object {
+                    "fontWeight": "bold",
+                  },
+                ]
+              }
+            >
+              price
+            </Text>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "justifyContent": "flex-end",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "paddingTop": 13,
+              }
+            }
+          >
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgba(204, 50, 55, 1)",
+                      "fontSize": 32,
+                    },
+                    undefined,
+                    Object {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+            <Text
+              style={
+                Array [
+                  Object {
+                    "flexWrap": "wrap",
+                    "fontFamily": "Helvetica",
+                    "fontWeight": "400",
+                  },
+                  Object {
+                    "color": "#222624",
+                    "fontSize": 16,
+                    "lineHeight": 24,
+                  },
+                  Object {
+                    "textAlign": "center",
+                    "width": 40,
+                  },
+                ]
+              }
+            >
+              1
+            </Text>
+            <View
+              accessible={true}
+              clickable={true}
+              isTVSelectable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": "rgba(34, 38, 36, .4)",
+                      "fontSize": 32,
+                    },
+                    undefined,
+                    Object {
+                      "fontFamily": "Ionicons",
+                      "fontStyle": "normal",
+                      "fontWeight": "normal",
+                    },
+                    Object {},
+                  ]
+                }
+              >
+                
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

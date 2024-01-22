@@ -1,0 +1,181 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`news item render news item render 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "flex-start",
+      "backgroundColor": "#fff",
+      "borderRadius": 16,
+      "elevation": 1,
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "marginBottom": 16,
+      "shadowColor": "rgba(128,128,128, 1)",
+      "shadowOffset": Object {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.2,
+      "shadowRadius": 1,
+      "width": "100%",
+    }
+  }
+>
+  <Image
+    resizeMode="contain"
+    source={
+      Object {
+        "uri": "image",
+      }
+    }
+    style={
+      Object {
+        "borderTopLeftRadius": 16,
+        "borderTopRightRadius": 16,
+        "height": 300,
+        "overflow": "hidden",
+        "width": "100%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "maxWidth": "100%",
+        "padding": 15,
+        "paddingTop": 0,
+      }
+    }
+  >
+    children
+  </View>
+</View>
+`;
+
+exports[`news item render skeleton news item render 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#fff",
+      "borderRadius": 16,
+      "justifyContent": "center",
+      "marginBottom": 16,
+      "padding": 15,
+      "shadowColor": "rgba(128,128,128, 1)",
+      "shadowOffset": Object {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.2,
+      "shadowRadius": 1,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "borderTopLeftRadius": 16,
+          "borderTopRightRadius": 16,
+          "height": 300,
+          "overflow": "hidden",
+          "width": "100%",
+        },
+        Object {
+          "alignItems": "center",
+          "borderBottomColor": "#F2F7F4",
+          "justifyContent": "center",
+        },
+      ]
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#C8CCC9",
+            "fontSize": 50,
+          },
+          undefined,
+          Object {
+            "fontFamily": "Ionicons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#F2F7F4",
+        "height": 24,
+        "marginBottom": 8,
+        "width": "100%",
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "backgroundColor": "#F2F7F4",
+        "height": 120,
+        "marginBottom": 16,
+        "width": "100%",
+      }
+    }
+  />
+  <View
+    accessible={true}
+    clickable={true}
+    isTVSelectable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "transparent",
+        "borderColor": "#399AE5",
+        "borderRadius": 8,
+        "borderWidth": 1,
+        "justifyContent": "center",
+        "minHeight": 36,
+        "minWidth": "100%",
+        "opacity": 0.2,
+      }
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#399AE5",
+            "fontFamily": "Helvetica Neue",
+            "fontWeight": "500",
+            "textAlign": "center",
+          },
+          Object {
+            "color": "#399AE5",
+            "fontSize": 16,
+          },
+        ]
+      }
+    >
+      test
+    </Text>
+  </View>
+</View>
+`;

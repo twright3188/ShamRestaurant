@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`catalog card buttons renders correctly buy button renders correctly 1`] = `
+<View
+  accessible={true}
+  clickable={false}
+  isTVSelectable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#399AE5",
+      "borderRadius": 8,
+      "justifyContent": "center",
+      "maxWidth": "51%",
+      "minHeight": 36,
+      "minWidth": "50%",
+      "opacity": 1,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#fff",
+        "fontFamily": "HelveticaNeue",
+        "fontSize": 14,
+      }
+    }
+  >
+    Buy
+  </Text>
+</View>
+`;
+
+exports[`catalog card buttons renders correctly details button renders correctly 1`] = `
+<View
+  accessible={true}
+  clickable={false}
+  isTVSelectable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "transparent",
+      "borderRadius": 8,
+      "justifyContent": "center",
+      "maxWidth": "51%",
+      "minHeight": 36,
+      "minWidth": "50%",
+      "opacity": 1,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#399AE5",
+        "fontFamily": "HelveticaNeue",
+        "fontSize": 14,
+      }
+    }
+  >
+    Details
+  </Text>
+</View>
+`;

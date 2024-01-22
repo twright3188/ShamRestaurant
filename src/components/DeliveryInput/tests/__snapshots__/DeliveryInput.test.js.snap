@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`delivery input renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#fff",
+      "borderBottomColor": "rgba(34, 38, 36, 0.15)",
+      "borderBottomWidth": 1,
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+      "paddingHorizontal": 15,
+      "paddingVertical": 16,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "flexWrap": "wrap",
+          "fontFamily": "Helvetica",
+          "fontWeight": "400",
+        },
+        Object {
+          "color": "#222624",
+          "fontSize": 16,
+          "lineHeight": 24,
+        },
+        Object {},
+      ]
+    }
+  >
+    name
+  </Text>
+  <Text
+    style={
+      Array [
+        Object {
+          "flexWrap": "wrap",
+          "fontFamily": "Helvetica",
+          "fontWeight": "400",
+        },
+        Object {
+          "color": "#222624",
+          "fontSize": 16,
+          "lineHeight": 24,
+        },
+        Object {
+          "color": "#78807B",
+        },
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;

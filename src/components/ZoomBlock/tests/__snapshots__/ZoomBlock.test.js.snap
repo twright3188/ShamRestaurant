@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`zoom block render 1`] = `
+<View
+  accessible={true}
+  clickable={true}
+  isTVSelectable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "borderColor": "#399AE5",
+      "borderRadius": 16,
+      "borderWidth": 1,
+      "flexDirection": "row",
+      "opacity": 1,
+      "paddingHorizontal": 8,
+      "paddingVertical": 4,
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "flexWrap": "wrap",
+          "fontFamily": "Helvetica",
+          "fontWeight": "400",
+        },
+        Object {
+          "color": "#399AE5",
+          "fontSize": 11,
+          "lineHeight": 16.5,
+        },
+        Object {},
+      ]
+    }
+  >
+    test
+  </Text>
+</View>
+`;

@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`title render 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "color": "#222624",
+        "flexWrap": "wrap",
+        "fontFamily": "Helvetica Neue",
+        "fontWeight": "bold",
+        "justifyContent": "center",
+        "position": "relative",
+        "width": "100%",
+      },
+      Object {
+        "fontSize": 35,
+        "lineHeight": 39.97,
+      },
+      Object {},
+    ]
+  }
+>
+  test
+</Text>
+`;

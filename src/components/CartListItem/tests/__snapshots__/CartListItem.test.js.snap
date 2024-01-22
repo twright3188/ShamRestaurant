@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`cart list item renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#fff",
+        "borderBottomColor": "rgba(34, 38, 36, 0.15)",
+        "borderBottomWidth": 1,
+        "flexDirection": "row",
+        "height": 52,
+        "paddingHorizontal": 15,
+        "width": "100%",
+      },
+      Object {},
+    ]
+  }
+>
+  children
+</View>
+`;

@@ -1,0 +1,243 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`settings items render app info item render 1`] = `
+<View
+  accessible={true}
+  clickable={true}
+  isTVSelectable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#fff",
+      "borderBottomColor": "rgba(34, 38, 36, 0.15)",
+      "borderBottomWidth": 0,
+      "borderTopColor": "rgba(34, 38, 36, 0.15)",
+      "borderTopWidth": 1,
+      "flex": 1,
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+      "minHeight": 56,
+      "opacity": 1,
+      "paddingLeft": 15,
+      "paddingRight": 18,
+      "paddingVertical": 16,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "color": "#222624",
+          "flexWrap": "wrap",
+          "fontFamily": "Helvetica Neue",
+          "fontWeight": "bold",
+          "justifyContent": "center",
+          "position": "relative",
+          "width": "100%",
+        },
+        Object {
+          "fontSize": 16,
+          "lineHeight": 18.272,
+        },
+        Object {
+          "fontFamily": "Helvetica",
+          "fontWeight": "normal",
+          "width": "auto",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": "#C8CCC9",
+          "fontSize": 20,
+        },
+        undefined,
+        Object {
+          "fontFamily": "Ionicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {},
+      ]
+    }
+  >
+    
+  </Text>
+</View>
+`;
+
+exports[`settings items render delete info item render 1`] = `
+<View
+  accessible={true}
+  clickable={true}
+  isTVSelectable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#fff",
+      "borderBottomColor": "rgba(34, 38, 36, 0.15)",
+      "borderBottomWidth": 1,
+      "borderTopColor": "rgba(34, 38, 36, 0.15)",
+      "borderTopWidth": 1,
+      "flex": 1,
+      "flexDirection": "row",
+      "justifyContent": "center",
+      "minHeight": 56,
+      "opacity": 1,
+      "paddingLeft": 15,
+      "paddingRight": 18,
+      "paddingVertical": 16,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    fontSize={16}
+    style={
+      Object {
+        "alignItems": "center",
+        "color": "#CC3237",
+        "flexDirection": "row",
+        "fontFamily": "Helvetica",
+        "fontSize": 16,
+        "fontWeight": "bold",
+        "justifyContent": "center",
+      }
+    }
+  >
+    
+  </Text>
+</View>
+`;
+
+exports[`settings items render personal info item render 1`] = `
+<View
+  accessible={true}
+  clickable={false}
+  isTVSelectable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#fff",
+      "borderBottomColor": "rgba(34, 38, 36, 0.15)",
+      "borderBottomWidth": 0,
+      "borderTopColor": "rgba(34, 38, 36, 0.15)",
+      "borderTopWidth": 1,
+      "flex": 1,
+      "flexDirection": "row",
+      "minHeight": 56,
+      "opacity": 1,
+      "paddingLeft": 15,
+      "paddingRight": 18,
+      "paddingVertical": 16,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "color": "#222624",
+          "flexWrap": "wrap",
+          "fontFamily": "Helvetica Neue",
+          "fontWeight": "bold",
+          "justifyContent": "center",
+          "position": "relative",
+          "width": "100%",
+        },
+        Object {
+          "fontSize": 16,
+          "lineHeight": 18.272,
+        },
+        Object {
+          "flexWrap": "wrap",
+          "fontFamily": "Helvetica",
+          "fontWeight": "normal",
+          "maxWidth": "100%",
+          "width": "50%",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "flexDirection": "row",
+        "justifyContent": "flex-end",
+        "paddingRight": 10,
+        "position": "relative",
+        "textAlign": "right",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#78807B",
+          "fontFamily": "Helvetica",
+          "fontSize": 16,
+          "fontWeight": "normal",
+        }
+      }
+    >
+      
+    </Text>
+  </View>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": "#C8CCC9",
+          "fontSize": 20,
+        },
+        undefined,
+        Object {
+          "fontFamily": "Ionicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {},
+      ]
+    }
+  >
+    
+  </Text>
+</View>
+`;

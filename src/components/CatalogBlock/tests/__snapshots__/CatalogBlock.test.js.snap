@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`catalog block renders correctly 1`] = `
+<View
+  accessible={true}
+  clickable={true}
+  isTVSelectable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "borderBottomColor": "#F2F7F4",
+      "borderBottomWidth": 0,
+      "flexDirection": "row",
+      "height": 72,
+      "opacity": 1,
+      "paddingLeft": 23,
+      "paddingRight": 33,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "color": "#399AE5",
+          "fontFamily": "Helvetica Neue",
+          "fontWeight": "bold",
+          "justifyContent": "center",
+          "position": "relative",
+          "width": "100%",
+        },
+        Object {
+          "fontSize": 20,
+          "lineHeight": 24,
+        },
+        Object {},
+      ]
+    }
+  >
+    Spring
+     🔥
+  </Text>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": "#C8CCC9",
+          "fontSize": 20,
+        },
+        undefined,
+        Object {
+          "fontFamily": "Ionicons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {},
+      ]
+    }
+  >
+    
+  </Text>
+</View>
+`;

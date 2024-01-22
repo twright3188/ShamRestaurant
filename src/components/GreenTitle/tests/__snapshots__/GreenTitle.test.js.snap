@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`green title renders correctly 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "color": "#399AE5",
+        "fontFamily": "Helvetica Neue",
+        "fontWeight": "bold",
+        "justifyContent": "center",
+        "position": "relative",
+        "width": "100%",
+      },
+      Object {
+        "fontSize": 20,
+        "lineHeight": 24,
+      },
+      Object {},
+    ]
+  }
+>
+  test
+</Text>
+`;

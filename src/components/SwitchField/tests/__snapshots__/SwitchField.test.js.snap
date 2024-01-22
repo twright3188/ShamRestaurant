@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`switch field render 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#fff",
+        "borderBottomColor": "rgba(34, 38, 36, 0.15)",
+        "borderBottomWidth": 1,
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "paddingHorizontal": 15,
+        "paddingVertical": 16,
+        "width": "100%",
+      },
+      Object {},
+    ]
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "flexWrap": "wrap",
+          "fontFamily": "Helvetica",
+          "fontWeight": "400",
+        },
+        Object {
+          "color": "#222624",
+          "fontSize": 16,
+          "lineHeight": 24,
+        },
+        Object {
+          "width": "80%",
+        },
+      ]
+    }
+  >
+    test
+  </Text>
+  <RCTSwitch
+    accessibilityRole="button"
+    onChange={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    onTintColor="#399AE5"
+    style={
+      Array [
+        Object {
+          "height": 31,
+          "width": 51,
+        },
+        Array [
+          Object {
+            "borderColor": "#C8CCC9",
+            "borderWidth": 1.5,
+          },
+          Object {
+            "backgroundColor": "#fff",
+            "borderRadius": 16,
+          },
+        ],
+      ]
+    }
+    thumbTintColor=""
+    tintColor="#fff"
+    value={false}
+  />
+</View>
+`;

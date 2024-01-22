@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`price items render active price render 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "#399AE5",
+        "fontFamily": "Helvetica Neue",
+        "fontWeight": "bold",
+        "marginRight": 22,
+      },
+      Object {
+        "fontSize": 35,
+        "lineHeight": 39.97,
+      },
+    ]
+  }
+>
+  $40
+</Text>
+`;
+
+exports[`price items render old price render 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "#C8CCC9",
+        "fontFamily": "Helvetica Neue",
+        "marginBottom": 4,
+        "textDecorationLine": "line-through",
+      },
+      Object {
+        "fontSize": 20,
+        "lineHeight": 24,
+      },
+    ]
+  }
+>
+  $50
+</Text>
+`;

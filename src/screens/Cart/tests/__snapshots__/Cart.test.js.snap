@@ -1,0 +1,1849 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`cart snapshots cart container renders correctly 1`] = `
+<RCTScrollView
+  style={
+    Object {
+      "backgroundColor": "#F2F7F4",
+      "flex": 1,
+      "height": "100%",
+      "width": "100%",
+    }
+  }
+>
+  <View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flex": 1,
+            "flexDirection": "row",
+            "justifyContent": "center",
+            "marginBottom": 24,
+            "width": "100%",
+          },
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "marginBottom": 9,
+            "padding": 15,
+            "width": "100%",
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "color": "#222624",
+              "flexWrap": "wrap",
+              "fontFamily": "Helvetica Neue",
+              "fontWeight": "bold",
+              "justifyContent": "center",
+              "position": "relative",
+              "width": "100%",
+            },
+            Object {
+              "fontSize": 35,
+              "lineHeight": 39.97,
+            },
+            Object {
+              "width": "auto",
+            },
+          ]
+        }
+      >
+        Cart
+      </Text>
+      <View
+        accessible={true}
+        clickable={false}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            Array [
+              Object {
+                "color": "#399AE5",
+                "fontSize": 30,
+              },
+              undefined,
+              Object {
+                "fontFamily": "Ionicons",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+              Object {},
+            ]
+          }
+        >
+          
+        </Text>
+      </View>
+    </View>
+    <View>
+      <View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#fff",
+              "borderBottomColor": "rgba(34, 38, 36, 0.15)",
+              "borderBottomWidth": 1,
+              "flexDirection": "row",
+              "paddingHorizontal": 15,
+              "paddingVertical": 16,
+              "width": "100%",
+            }
+          }
+        >
+          <Image
+            resizeMode="cover"
+            source={
+              Object {
+                "uri": "https://media.chainreactioncycles.com/is/image/ChainReactionCycles/template_sample?$detail$&$id=prod170238_Midnight%20-%20Yellow_NE_01&$offerflag=Clearance&$offerhide=0&$promoflag=bikesale2019&$promohide=0&locale=en",
+              }
+            }
+            style={
+              Object {
+                "borderRadius": 40,
+                "height": 80,
+                "marginRight": 17,
+                "width": 80,
+              }
+            }
+          />
+          <View
+            style={
+              Object {
+                "flex": 1,
+                "flexDirection": "column",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "flexWrap": "wrap",
+                      "fontFamily": "Helvetica",
+                      "fontWeight": "400",
+                    },
+                    Object {
+                      "color": "#222624",
+                      "fontSize": 14,
+                      "lineHeight": 21,
+                    },
+                    Object {
+                      "flexWrap": "wrap",
+                      "marginBottom": 7,
+                    },
+                  ]
+                }
+              >
+                Nukeproof Mega 275 Alloy Pro Bike GX Eagle
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                  "flexWrap": "wrap",
+                  "justifyContent": "space-between",
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "flexDirection": "column",
+                  }
+                }
+              >
+                <View>
+                  <Text
+                    style={
+                      Array [
+                        Object {
+                          "flexWrap": "wrap",
+                          "fontFamily": "Helvetica",
+                          "fontWeight": "400",
+                        },
+                        Object {
+                          "color": "#222624",
+                          "fontSize": 14,
+                          "lineHeight": 21,
+                        },
+                        Object {
+                          "color": "#78807B",
+                          "marginBottom": 7,
+                        },
+                      ]
+                    }
+                  >
+                    Size: 
+                    S
+                  </Text>
+                </View>
+                <View>
+                  <Text
+                    style={
+                      Array [
+                        Object {
+                          "flexWrap": "wrap",
+                          "fontFamily": "Helvetica",
+                          "fontWeight": "400",
+                        },
+                        Object {
+                          "color": "#222624",
+                          "fontSize": 16,
+                          "lineHeight": 24,
+                        },
+                        Object {
+                          "fontWeight": "bold",
+                        },
+                      ]
+                    }
+                  >
+                    $2399.99
+                  </Text>
+                </View>
+              </View>
+              <View
+                style={
+                  Object {
+                    "justifyContent": "flex-end",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                      "paddingTop": 13,
+                    }
+                  }
+                >
+                  <View
+                    accessible={true}
+                    clickable={true}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgba(204, 50, 55, 1)",
+                            "fontSize": 32,
+                          },
+                          undefined,
+                          Object {
+                            "fontFamily": "Ionicons",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                          Object {},
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                  <Text
+                    style={
+                      Array [
+                        Object {
+                          "flexWrap": "wrap",
+                          "fontFamily": "Helvetica",
+                          "fontWeight": "400",
+                        },
+                        Object {
+                          "color": "#222624",
+                          "fontSize": 16,
+                          "lineHeight": 24,
+                        },
+                        Object {
+                          "textAlign": "center",
+                          "width": 40,
+                        },
+                      ]
+                    }
+                  >
+                    1
+                  </Text>
+                  <View
+                    accessible={true}
+                    clickable={true}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgba(34, 38, 36, .4)",
+                            "fontSize": 32,
+                          },
+                          undefined,
+                          Object {
+                            "fontFamily": "Ionicons",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                          Object {},
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+      <View>
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "#fff",
+              "borderBottomColor": "rgba(34, 38, 36, 0.15)",
+              "borderBottomWidth": 1,
+              "flexDirection": "row",
+              "paddingHorizontal": 15,
+              "paddingVertical": 16,
+              "width": "100%",
+            }
+          }
+        >
+          <Image
+            resizeMode="cover"
+            source={
+              Object {
+                "uri": "https://media.chainreactioncycles.com/is/image/ChainReactionCycles/template_sample?$detail$&$id=prod170259_Ron%20Burgundy%20-%20Black_NE_01&$offerhide=1&$promoflag=blackfriday&$promohide=0&locale=en",
+              }
+            }
+            style={
+              Object {
+                "borderRadius": 40,
+                "height": 80,
+                "marginRight": 17,
+                "width": 80,
+              }
+            }
+          />
+          <View
+            style={
+              Object {
+                "flex": 1,
+                "flexDirection": "column",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <Text
+                style={
+                  Array [
+                    Object {
+                      "flexWrap": "wrap",
+                      "fontFamily": "Helvetica",
+                      "fontWeight": "400",
+                    },
+                    Object {
+                      "color": "#222624",
+                      "fontSize": 14,
+                      "lineHeight": 21,
+                    },
+                    Object {
+                      "flexWrap": "wrap",
+                      "marginBottom": 7,
+                    },
+                  ]
+                }
+              >
+                Nukeproof Mega 275 Carbon Pro Bike GX Eagle
+              </Text>
+            </View>
+            <View
+              style={
+                Object {
+                  "flexDirection": "row",
+                  "flexWrap": "wrap",
+                  "justifyContent": "space-between",
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "flexDirection": "column",
+                  }
+                }
+              >
+                <View>
+                  <Text
+                    style={
+                      Array [
+                        Object {
+                          "flexWrap": "wrap",
+                          "fontFamily": "Helvetica",
+                          "fontWeight": "400",
+                        },
+                        Object {
+                          "color": "#222624",
+                          "fontSize": 14,
+                          "lineHeight": 21,
+                        },
+                        Object {
+                          "color": "#78807B",
+                          "marginBottom": 7,
+                        },
+                      ]
+                    }
+                  >
+                    Size: 
+                    L
+                  </Text>
+                </View>
+                <View>
+                  <Text
+                    style={
+                      Array [
+                        Object {
+                          "flexWrap": "wrap",
+                          "fontFamily": "Helvetica",
+                          "fontWeight": "400",
+                        },
+                        Object {
+                          "color": "#222624",
+                          "fontSize": 16,
+                          "lineHeight": 24,
+                        },
+                        Object {
+                          "fontWeight": "bold",
+                        },
+                      ]
+                    }
+                  >
+                    $2879.99
+                  </Text>
+                </View>
+              </View>
+              <View
+                style={
+                  Object {
+                    "justifyContent": "flex-end",
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "alignItems": "center",
+                      "flexDirection": "row",
+                      "paddingTop": 13,
+                    }
+                  }
+                >
+                  <View
+                    accessible={true}
+                    clickable={true}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgba(204, 50, 55, 1)",
+                            "fontSize": 32,
+                          },
+                          undefined,
+                          Object {
+                            "fontFamily": "Ionicons",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                          Object {},
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                  <Text
+                    style={
+                      Array [
+                        Object {
+                          "flexWrap": "wrap",
+                          "fontFamily": "Helvetica",
+                          "fontWeight": "400",
+                        },
+                        Object {
+                          "color": "#222624",
+                          "fontSize": 16,
+                          "lineHeight": 24,
+                        },
+                        Object {
+                          "textAlign": "center",
+                          "width": 40,
+                        },
+                      ]
+                    }
+                  >
+                    1
+                  </Text>
+                  <View
+                    accessible={true}
+                    clickable={true}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "rgba(34, 38, 36, .4)",
+                            "fontSize": 32,
+                          },
+                          undefined,
+                          Object {
+                            "fontFamily": "Ionicons",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                          Object {},
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#fff",
+            "borderBottomColor": "rgba(34, 38, 36, 0.15)",
+            "borderBottomWidth": 1,
+            "flexDirection": "row",
+            "height": 52,
+            "paddingHorizontal": 15,
+            "width": "100%",
+          },
+          Object {},
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "flexWrap": "wrap",
+              "fontFamily": "Helvetica",
+              "fontWeight": "400",
+            },
+            Object {
+              "color": "#222624",
+              "fontSize": 14,
+              "lineHeight": 21,
+            },
+            Object {
+              "color": "#78807B",
+              "fontWeight": "bold",
+              "width": 100,
+            },
+          ]
+        }
+      >
+        Delivery
+      </Text>
+      <TextInput
+        allowFontScaling={true}
+        editable={false}
+        rejectResponderTermination={true}
+        style={
+          Object {
+            "color": "#78807B",
+            "fontSize": 14,
+            "width": "60%",
+          }
+        }
+        underlineColorAndroid="transparent"
+        value="Free"
+      />
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#fff",
+            "borderBottomColor": "rgba(34, 38, 36, 0.15)",
+            "borderBottomWidth": 1,
+            "flexDirection": "row",
+            "height": 52,
+            "paddingHorizontal": 15,
+            "width": "100%",
+          },
+          Object {
+            "marginBottom": 28,
+          },
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "flexWrap": "wrap",
+              "fontFamily": "Helvetica",
+              "fontWeight": "400",
+            },
+            Object {
+              "color": "#222624",
+              "fontSize": 14,
+              "lineHeight": 21,
+            },
+            Object {
+              "color": "#78807B",
+              "fontWeight": "bold",
+              "width": 100,
+            },
+          ]
+        }
+      >
+        Promo code
+      </Text>
+      <TextInput
+        allowFontScaling={true}
+        onChangeText={[Function]}
+        rejectResponderTermination={true}
+        style={
+          Object {
+            "color": "#78807B",
+            "fontSize": 14,
+            "width": "60%",
+          }
+        }
+        underlineColorAndroid="transparent"
+        value=""
+      />
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#fff",
+            "borderBottomColor": "rgba(34, 38, 36, 0.15)",
+            "borderBottomWidth": 1,
+            "flexDirection": "row",
+            "height": 52,
+            "paddingHorizontal": 15,
+            "width": "100%",
+          },
+          Object {},
+        ]
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "flexWrap": "wrap",
+              "fontFamily": "Helvetica",
+              "fontWeight": "400",
+            },
+            Object {
+              "color": "#222624",
+              "fontSize": 16,
+              "lineHeight": 24,
+            },
+            Object {
+              "color": "#78807B",
+              "fontWeight": "bold",
+              "width": 100,
+            },
+          ]
+        }
+      >
+        Total
+      </Text>
+      <Text
+        style={
+          Array [
+            Object {
+              "flexWrap": "wrap",
+              "fontFamily": "Helvetica",
+              "fontWeight": "400",
+            },
+            Object {
+              "color": "#222624",
+              "fontSize": 16,
+              "lineHeight": 24,
+            },
+            Object {
+              "fontWeight": "bold",
+            },
+          ]
+        }
+      >
+        $5279.98
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "marginTop": 9,
+          "padding": 15,
+          "width": "100%",
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "color": "#222624",
+              "flexWrap": "wrap",
+              "fontFamily": "Helvetica Neue",
+              "fontWeight": "bold",
+              "justifyContent": "center",
+              "position": "relative",
+              "width": "100%",
+            },
+            Object {
+              "fontSize": 16,
+              "lineHeight": 18.272,
+            },
+            Object {},
+          ]
+        }
+      >
+        Recommended products
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "backgroundColor": "transparent",
+          "flexDirection": "row",
+          "height": "auto",
+          "justifyContent": "flex-start",
+          "marginBottom": 24,
+          "width": 750,
+        }
+      }
+    >
+      <RCTScrollView
+        activeAnimationOptions={null}
+        activeAnimationType="timing"
+        activeSlideAlignment="start"
+        activeSlideOffset={20}
+        apparitionDelay={0}
+        automaticallyAdjustContentInsets={false}
+        autoplay={false}
+        autoplayDelay={1000}
+        autoplayInterval={3000}
+        callbackOffsetMargin={5}
+        containerCustomStyle={Object {}}
+        contentContainerCustomStyle={
+          Object {
+            "overflow": "hidden",
+            "width": 672,
+          }
+        }
+        contentContainerStyle={
+          Array [
+            Object {
+              "paddingLeft": 0,
+              "paddingRight": 638,
+            },
+            Object {
+              "overflow": "hidden",
+              "width": 672,
+            },
+          ]
+        }
+        data={
+          Array [
+            Object {
+              "image": "https://media.chainreactioncycles.com/is/image/ChainReactionCycles/template_sample?$detail$&$id=prod163615_Black_NE_01&$offerhide=1&$promoflag=aw19roadclothing&$promohide=0&locale=en",
+              "price": "$30",
+              "title": "dhb Extreme Weather Neoprene Overshoe",
+            },
+            Object {
+              "image": "https://media.chainreactioncycles.com/is/image/ChainReactionCycles/template_sample?$detail$&$id=prod183251_Matte%20Gold_NE_01&$offerhide=1&$promoflag=foxracingaw19wk362019&$promohide=0&locale=en",
+              "price": "$225",
+              "title": "Fox Racing Proframe Matte Helmet AW19",
+            },
+            Object {
+              "image": "https://media.chainreactioncycles.com/is/image/ChainReactionCycles/template_sample?$detail$&$id=prod157000_Red_NE_01&$offerhide=1&$promoflag=aw19clothingwk402019&$promohide=0&locale=en",
+              "price": "$88",
+              "title": "Fox Racing Launch Pro D3O Knee Guards",
+            },
+            Object {
+              "image": "https://media.chainreactioncycles.com/is/image/ChainReactionCycles/template_sample?$detail$&$id=prod163615_Black_NE_01&$offerhide=1&$promoflag=aw19roadclothing&$promohide=0&locale=en",
+              "price": "$30",
+              "title": "dhb Extreme Weather Neoprene Overshoe",
+            },
+            Object {
+              "image": "https://media.chainreactioncycles.com/is/image/ChainReactionCycles/template_sample?$detail$&$id=prod183251_Matte%20Gold_NE_01&$offerhide=1&$promoflag=foxracingaw19wk362019&$promohide=0&locale=en",
+              "price": "$225",
+              "title": "Fox Racing Proframe Matte Helmet AW19",
+            },
+            Object {
+              "image": "https://media.chainreactioncycles.com/is/image/ChainReactionCycles/template_sample?$detail$&$id=prod157000_Red_NE_01&$offerhide=1&$promoflag=aw19clothingwk402019&$promohide=0&locale=en",
+              "price": "$88",
+              "title": "dhb Extreme Weather Neoprene Overshoe",
+            },
+          ]
+        }
+        decelerationRate="fast"
+        directionalLockEnabled={true}
+        disableVirtualization={false}
+        enableMomentum={false}
+        enableSnap={true}
+        firstItem={0}
+        getItem={[Function]}
+        getItemCount={[Function]}
+        hasParallaxImages={false}
+        horizontal={true}
+        inactiveSlideOpacity={1}
+        inactiveSlideScale={1}
+        inactiveSlideShift={0}
+        initialNumToRender={12}
+        invertStickyHeaders={false}
+        inverted={false}
+        itemWidth={112}
+        keyExtractor={[Function]}
+        layout="default"
+        lockScrollTimeoutDuration={1000}
+        lockScrollWhileSnapping={false}
+        loop={false}
+        loopClonesPerSide={3}
+        maxToRenderPerBatch={25}
+        numColumns={1}
+        onContentSizeChange={[Function]}
+        onEndReachedThreshold={2}
+        onLayout={[Function]}
+        onMomentumScrollEnd={[Function]}
+        onResponderRelease={[Function]}
+        onScroll={[Function]}
+        onScrollBeginDrag={[Function]}
+        onScrollEndDrag={[Function]}
+        onStartShouldSetResponderCapture={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+        overScrollMode="never"
+        pinchGestureEnabled={false}
+        removeClippedSubviews={true}
+        renderItem={[Function]}
+        scrollEnabled={true}
+        scrollEventThrottle={1}
+        scrollsToTop={false}
+        shouldOptimizeUpdates={true}
+        showsHorizontalScrollIndicator={false}
+        showsVerticalScrollIndicator={false}
+        slideStyle={Object {}}
+        sliderWidth={750}
+        stickyHeaderIndices={Array []}
+        style={
+          Object {
+            "flexDirection": "row",
+            "opacity": 0,
+            "width": 750,
+          }
+        }
+        swipeThreshold={20}
+        updateCellsBatchingPeriod={50}
+        useScrollView={false}
+        vertical={false}
+        viewabilityConfigCallbackPairs={Array []}
+        windowSize={25}
+      >
+        <View>
+          <View
+            onLayout={[Function]}
+            style={
+              Array [
+                Object {
+                  "flexDirection": "row",
+                },
+                null,
+              ]
+            }
+          >
+            <View
+              pointerEvents="box-none"
+              style={
+                Array [
+                  Object {
+                    "width": 112,
+                  },
+                  Object {},
+                  Object {},
+                ]
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "justifyContent": "center",
+                    "marginHorizontal": 12,
+                    "shadowColor": "rgba(34, 38, 36, 0.15)",
+                    "shadowOffset": Object {
+                      "height": 2,
+                      "width": 0,
+                    },
+                    "shadowOpacity": 1,
+                    "shadowRadius": 5,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://media.chainreactioncycles.com/is/image/ChainReactionCycles/template_sample?$detail$&$id=prod163615_Black_NE_01&$offerhide=1&$promoflag=aw19roadclothing&$promohide=0&locale=en",
+                    }
+                  }
+                  style={
+                    Object {
+                      "borderRadius": 16,
+                      "height": 88,
+                      "marginBottom": 8,
+                      "width": 88,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    Array [
+                      Object {
+                        "flexWrap": "wrap",
+                        "fontFamily": "Helvetica",
+                        "fontWeight": "400",
+                      },
+                      Object {
+                        "color": "#222624",
+                        "fontSize": 14,
+                        "lineHeight": 21,
+                      },
+                      Object {
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                >
+                  dhb Extreme Weather Neoprene Overshoe
+                </Text>
+                <Text
+                  style={
+                    Array [
+                      Object {
+                        "flexWrap": "wrap",
+                        "fontFamily": "Helvetica",
+                        "fontWeight": "400",
+                      },
+                      Object {
+                        "color": "#222624",
+                        "fontSize": 14,
+                        "lineHeight": 21,
+                      },
+                      Object {
+                        "color": "#78807B",
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                >
+                  $30
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            onLayout={[Function]}
+            style={
+              Array [
+                Object {
+                  "flexDirection": "row",
+                },
+                null,
+              ]
+            }
+          >
+            <View
+              pointerEvents="box-none"
+              style={
+                Array [
+                  Object {
+                    "width": 112,
+                  },
+                  Object {},
+                  Object {},
+                ]
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "justifyContent": "center",
+                    "marginHorizontal": 12,
+                    "shadowColor": "rgba(34, 38, 36, 0.15)",
+                    "shadowOffset": Object {
+                      "height": 2,
+                      "width": 0,
+                    },
+                    "shadowOpacity": 1,
+                    "shadowRadius": 5,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://media.chainreactioncycles.com/is/image/ChainReactionCycles/template_sample?$detail$&$id=prod183251_Matte%20Gold_NE_01&$offerhide=1&$promoflag=foxracingaw19wk362019&$promohide=0&locale=en",
+                    }
+                  }
+                  style={
+                    Object {
+                      "borderRadius": 16,
+                      "height": 88,
+                      "marginBottom": 8,
+                      "width": 88,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    Array [
+                      Object {
+                        "flexWrap": "wrap",
+                        "fontFamily": "Helvetica",
+                        "fontWeight": "400",
+                      },
+                      Object {
+                        "color": "#222624",
+                        "fontSize": 14,
+                        "lineHeight": 21,
+                      },
+                      Object {
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                >
+                  Fox Racing Proframe Matte Helmet AW19
+                </Text>
+                <Text
+                  style={
+                    Array [
+                      Object {
+                        "flexWrap": "wrap",
+                        "fontFamily": "Helvetica",
+                        "fontWeight": "400",
+                      },
+                      Object {
+                        "color": "#222624",
+                        "fontSize": 14,
+                        "lineHeight": 21,
+                      },
+                      Object {
+                        "color": "#78807B",
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                >
+                  $225
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            onLayout={[Function]}
+            style={
+              Array [
+                Object {
+                  "flexDirection": "row",
+                },
+                null,
+              ]
+            }
+          >
+            <View
+              pointerEvents="box-none"
+              style={
+                Array [
+                  Object {
+                    "width": 112,
+                  },
+                  Object {},
+                  Object {},
+                ]
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "justifyContent": "center",
+                    "marginHorizontal": 12,
+                    "shadowColor": "rgba(34, 38, 36, 0.15)",
+                    "shadowOffset": Object {
+                      "height": 2,
+                      "width": 0,
+                    },
+                    "shadowOpacity": 1,
+                    "shadowRadius": 5,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://media.chainreactioncycles.com/is/image/ChainReactionCycles/template_sample?$detail$&$id=prod157000_Red_NE_01&$offerhide=1&$promoflag=aw19clothingwk402019&$promohide=0&locale=en",
+                    }
+                  }
+                  style={
+                    Object {
+                      "borderRadius": 16,
+                      "height": 88,
+                      "marginBottom": 8,
+                      "width": 88,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    Array [
+                      Object {
+                        "flexWrap": "wrap",
+                        "fontFamily": "Helvetica",
+                        "fontWeight": "400",
+                      },
+                      Object {
+                        "color": "#222624",
+                        "fontSize": 14,
+                        "lineHeight": 21,
+                      },
+                      Object {
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                >
+                  Fox Racing Launch Pro D3O Knee Guards
+                </Text>
+                <Text
+                  style={
+                    Array [
+                      Object {
+                        "flexWrap": "wrap",
+                        "fontFamily": "Helvetica",
+                        "fontWeight": "400",
+                      },
+                      Object {
+                        "color": "#222624",
+                        "fontSize": 14,
+                        "lineHeight": 21,
+                      },
+                      Object {
+                        "color": "#78807B",
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                >
+                  $88
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            onLayout={[Function]}
+            style={
+              Array [
+                Object {
+                  "flexDirection": "row",
+                },
+                null,
+              ]
+            }
+          >
+            <View
+              pointerEvents="box-none"
+              style={
+                Array [
+                  Object {
+                    "width": 112,
+                  },
+                  Object {},
+                  Object {},
+                ]
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "justifyContent": "center",
+                    "marginHorizontal": 12,
+                    "shadowColor": "rgba(34, 38, 36, 0.15)",
+                    "shadowOffset": Object {
+                      "height": 2,
+                      "width": 0,
+                    },
+                    "shadowOpacity": 1,
+                    "shadowRadius": 5,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://media.chainreactioncycles.com/is/image/ChainReactionCycles/template_sample?$detail$&$id=prod163615_Black_NE_01&$offerhide=1&$promoflag=aw19roadclothing&$promohide=0&locale=en",
+                    }
+                  }
+                  style={
+                    Object {
+                      "borderRadius": 16,
+                      "height": 88,
+                      "marginBottom": 8,
+                      "width": 88,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    Array [
+                      Object {
+                        "flexWrap": "wrap",
+                        "fontFamily": "Helvetica",
+                        "fontWeight": "400",
+                      },
+                      Object {
+                        "color": "#222624",
+                        "fontSize": 14,
+                        "lineHeight": 21,
+                      },
+                      Object {
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                >
+                  dhb Extreme Weather Neoprene Overshoe
+                </Text>
+                <Text
+                  style={
+                    Array [
+                      Object {
+                        "flexWrap": "wrap",
+                        "fontFamily": "Helvetica",
+                        "fontWeight": "400",
+                      },
+                      Object {
+                        "color": "#222624",
+                        "fontSize": 14,
+                        "lineHeight": 21,
+                      },
+                      Object {
+                        "color": "#78807B",
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                >
+                  $30
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            onLayout={[Function]}
+            style={
+              Array [
+                Object {
+                  "flexDirection": "row",
+                },
+                null,
+              ]
+            }
+          >
+            <View
+              pointerEvents="box-none"
+              style={
+                Array [
+                  Object {
+                    "width": 112,
+                  },
+                  Object {},
+                  Object {},
+                ]
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "justifyContent": "center",
+                    "marginHorizontal": 12,
+                    "shadowColor": "rgba(34, 38, 36, 0.15)",
+                    "shadowOffset": Object {
+                      "height": 2,
+                      "width": 0,
+                    },
+                    "shadowOpacity": 1,
+                    "shadowRadius": 5,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://media.chainreactioncycles.com/is/image/ChainReactionCycles/template_sample?$detail$&$id=prod183251_Matte%20Gold_NE_01&$offerhide=1&$promoflag=foxracingaw19wk362019&$promohide=0&locale=en",
+                    }
+                  }
+                  style={
+                    Object {
+                      "borderRadius": 16,
+                      "height": 88,
+                      "marginBottom": 8,
+                      "width": 88,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    Array [
+                      Object {
+                        "flexWrap": "wrap",
+                        "fontFamily": "Helvetica",
+                        "fontWeight": "400",
+                      },
+                      Object {
+                        "color": "#222624",
+                        "fontSize": 14,
+                        "lineHeight": 21,
+                      },
+                      Object {
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                >
+                  Fox Racing Proframe Matte Helmet AW19
+                </Text>
+                <Text
+                  style={
+                    Array [
+                      Object {
+                        "flexWrap": "wrap",
+                        "fontFamily": "Helvetica",
+                        "fontWeight": "400",
+                      },
+                      Object {
+                        "color": "#222624",
+                        "fontSize": 14,
+                        "lineHeight": 21,
+                      },
+                      Object {
+                        "color": "#78807B",
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                >
+                  $225
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            onLayout={[Function]}
+            style={
+              Array [
+                Object {
+                  "flexDirection": "row",
+                },
+                null,
+              ]
+            }
+          >
+            <View
+              pointerEvents="box-none"
+              style={
+                Array [
+                  Object {
+                    "width": 112,
+                  },
+                  Object {},
+                  Object {},
+                ]
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignItems": "center",
+                    "justifyContent": "center",
+                    "marginHorizontal": 12,
+                    "shadowColor": "rgba(34, 38, 36, 0.15)",
+                    "shadowOffset": Object {
+                      "height": 2,
+                      "width": 0,
+                    },
+                    "shadowOpacity": 1,
+                    "shadowRadius": 5,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://media.chainreactioncycles.com/is/image/ChainReactionCycles/template_sample?$detail$&$id=prod157000_Red_NE_01&$offerhide=1&$promoflag=aw19clothingwk402019&$promohide=0&locale=en",
+                    }
+                  }
+                  style={
+                    Object {
+                      "borderRadius": 16,
+                      "height": 88,
+                      "marginBottom": 8,
+                      "width": 88,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    Array [
+                      Object {
+                        "flexWrap": "wrap",
+                        "fontFamily": "Helvetica",
+                        "fontWeight": "400",
+                      },
+                      Object {
+                        "color": "#222624",
+                        "fontSize": 14,
+                        "lineHeight": 21,
+                      },
+                      Object {
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                >
+                  dhb Extreme Weather Neoprene Overshoe
+                </Text>
+                <Text
+                  style={
+                    Array [
+                      Object {
+                        "flexWrap": "wrap",
+                        "fontFamily": "Helvetica",
+                        "fontWeight": "400",
+                      },
+                      Object {
+                        "color": "#222624",
+                        "fontSize": 14,
+                        "lineHeight": 21,
+                      },
+                      Object {
+                        "color": "#78807B",
+                        "textAlign": "center",
+                      },
+                    ]
+                  }
+                >
+                  $88
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </RCTScrollView>
+    </View>
+    <View
+      style={
+        Object {
+          "marginBottom": 20,
+          "paddingHorizontal": 15,
+          "width": "100%",
+        }
+      }
+    >
+      <View
+        accessible={true}
+        clickable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#399AE5",
+            "borderColor": "#399AE5",
+            "borderRadius": 8,
+            "borderWidth": 1,
+            "height": 56,
+            "justifyContent": "center",
+            "minHeight": 36,
+            "minWidth": "100%",
+            "opacity": 1,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#399AE5",
+                "fontFamily": "Helvetica Neue",
+                "fontWeight": "500",
+                "textAlign": "center",
+              },
+              Object {
+                "color": "#fff",
+                "fontSize": 16,
+              },
+            ]
+          }
+        >
+          Next
+        </Text>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`cart snapshots empty cart renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <RCTScrollView
+    style={
+      Object {
+        "backgroundColor": "#F2F7F4",
+        "flex": 1,
+        "flexDirection": "column",
+        "height": "100%",
+        "padding": 15,
+        "position": "relative",
+        "width": "100%",
+        "zIndex": 1,
+      }
+    }
+  >
+    <View>
+      <View
+        style={
+          Array [
+            Object {
+              "alignItems": "center",
+              "flex": 1,
+              "flexDirection": "row",
+              "justifyContent": "center",
+              "marginBottom": 24,
+              "width": "100%",
+            },
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "space-around",
+              "marginBottom": 80,
+              "paddingLeft": 0,
+              "paddingRight": 0,
+            },
+          ]
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "color": "#222624",
+                "flexWrap": "wrap",
+                "fontFamily": "Helvetica Neue",
+                "fontWeight": "bold",
+                "justifyContent": "center",
+                "position": "relative",
+                "width": "100%",
+              },
+              Object {
+                "fontSize": 35,
+                "lineHeight": 39.97,
+              },
+              Object {
+                "flex": 1,
+              },
+            ]
+          }
+        >
+          Cart
+        </Text>
+        <View
+          accessible={true}
+          clickable={false}
+          isTVSelectable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "color": "#399AE5",
+                  "fontSize": 30,
+                },
+                undefined,
+                Object {
+                  "fontFamily": "Ionicons",
+                  "fontStyle": "normal",
+                  "fontWeight": "normal",
+                },
+                Object {},
+              ]
+            }
+          >
+            
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "column",
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            Array [
+              Object {
+                "color": "#399AE5",
+                "fontSize": 100,
+              },
+              undefined,
+              Object {
+                "fontFamily": "FontAwesome",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+              Object {},
+            ]
+          }
+        >
+          
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "column",
+            "marginTop": 16,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "flexWrap": "wrap",
+                "fontFamily": "Helvetica",
+                "fontWeight": "400",
+              },
+              Object {
+                "color": "#222624",
+                "fontSize": 16,
+                "lineHeight": 24,
+              },
+              Object {},
+            ]
+          }
+        >
+          So far, the cart is empty.
+        </Text>
+      </View>
+    </View>
+  </RCTScrollView>
+  <View
+    style={
+      Object {
+        "bottom": 24,
+        "paddingHorizontal": 15,
+        "position": "absolute",
+        "width": "100%",
+        "zIndex": 2,
+      }
+    }
+  >
+    <View
+      accessible={true}
+      clickable={true}
+      isTVSelectable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#399AE5",
+          "borderColor": "#399AE5",
+          "borderRadius": 8,
+          "borderWidth": 1,
+          "height": 56,
+          "justifyContent": "center",
+          "minHeight": 36,
+          "minWidth": "100%",
+          "opacity": 1,
+          "width": "100%",
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#399AE5",
+              "fontFamily": "Helvetica Neue",
+              "fontWeight": "500",
+              "textAlign": "center",
+            },
+            Object {
+              "color": "#fff",
+              "fontSize": 16,
+            },
+          ]
+        }
+      >
+        Back in the catalog
+      </Text>
+    </View>
+  </View>
+</View>
+`;

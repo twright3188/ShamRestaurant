@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`skeleton catalog item renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "height": 72,
+      "justifyContent": "center",
+      "padding": 24,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#F2F7F4",
+        "height": 24,
+        "width": "100%",
+      }
+    }
+  />
+</View>
+`;
